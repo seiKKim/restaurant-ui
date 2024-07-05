@@ -12,7 +12,7 @@ export default function Home() {
         </video>
       </div>
       <main className="relative z-10">
-      <div className="main-banner-header-wrap pt-[12rem] pb-[10rem] px-8 md:px-16 lg:px-32">
+      <div className="main-banner-header-wrap pt-[10rem] pb-[10rem] px-8 md:px-16 lg:px-32">
           <div className="main-banner-title text-4xl font-bold text-[#FFFFFF] text-[63px] font-extrabold leading-[1.2] break-words text-center">
             <label>Medical</label> <label>Reality,</label> <label>MRWARE</label>
           </div>
